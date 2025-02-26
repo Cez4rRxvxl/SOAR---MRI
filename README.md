@@ -12,6 +12,7 @@ Este projeto apresenta um sistema automatizado de monitoramento de reputação d
 - 📊 **Geração de Relatórios**: Saída estruturada em JSON e CSV, além de visualização em gráficos.
 
 ## 📂 Estrutura do Projeto
+```bash
 /
 ├── check_ip.py           # Script principal
 ├── config.env            # Configuração do sistema
@@ -21,7 +22,7 @@ Este projeto apresenta um sistema automatizado de monitoramento de reputação d
 ├── ip_report.csv         # Relatório consolidado
 ├── ip_report_chart.png   # Gráfico de análise
 ├── cron_execution_log.txt# Log das execuções
-/
+```
 
 ## ⚙️ Fluxo de Execução
 1. 📜 O script carrega a lista de IPs suspeitos.
