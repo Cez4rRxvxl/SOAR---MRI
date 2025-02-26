@@ -1,0 +1,4 @@
+export EMAIL_SENDER="seu_email@gmail.com"
+export EMAIL_PASSWORD="sua_senha"
+export EMAIL_RECIPIENT="destinatario@gmail.com"
+export SLACK_WEBHOOK_URL="https://hooks.slack.com/services/xxx/yyy/zzz"

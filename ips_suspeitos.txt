@@ -1,0 +1,32 @@
+8.8.8.8               # IP do Google DNS (confiável)
+185.147.124.54        # Relatado para atividades maliciosas
+171.251.28.111        # Possível IP associado a ataques DDoS
+61.147.41.249         # IP de origem desconhecida, potencialmente suspeito
+185.220.101.6         # IP associado a atividades de botnet
+104.244.72.115        # Possível IP suspeito de spam
+45.227.254.204        # Relatado para ataques de força bruta
+192.168.1.1           # IP interno da rede privada (não público)
+85.214.132.117        # Relatado em listas negras por múltiplas tentativas de acesso
+37.49.226.175         # Usado para anonimização de tráfego (VPN/Tor)
+23.129.64.96          # Conexões recorrentes a portas sensíveis
+193.32.162.132        # Relatado para possíveis ataques web
+106.227.35.200        # Possível IP associado a ataques de phishing
+164.163.98.49         # IP brasileiro, potencial risco de malware
+94.16.31.222          # IP europeu, relacionado a ataques de força bruta
+162.215.133.102       # Hospedagem nos EUA, atividades suspeitas relatadas
+51.79.251.26          # IP de Singapura, envolvido em tentativas de acesso não autorizado
+124.31.104.57         # IP chinês, com histórico de atividades maliciosas
+218.92.0.230          # Relatado para escaneamento de portas
+166.1.10.197          # Possível origem de tráfego anômalo
+13.70.39.68           # Servidor em Hong Kong, com possíveis atividades de spam
+198.46.129.155        # IP dos EUA, envolvido em ataques de negação de serviço (DDoS)
+2.36.64.247           # IP europeu com histórico de atividades suspeitas
+8.213.197.49          # Rede russa, associada a ataques de phishing
+116.204.84.188        # Servidor na China com relatórios de exploração de vulnerabilidades
+221.149.176.199       # IP da Coreia do Sul, envolvido em tráfego malicioso
+218.92.0.150          # Relatado por tentativas de login forçado
+218.92.0.218          # Suspeita de envolvimento em botnets
+36.233.107.113        # IP de Taiwan, relatado para atividades maliciosas
+185.147.124.182       # Relatado como origem de spam e ataques de força bruta
+124.31.104.114        # IP chinês, envolvido em tentativas de exploração de sistemas
+

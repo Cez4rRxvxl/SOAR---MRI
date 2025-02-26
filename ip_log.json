@@ -1,0 +1,630 @@
+{
+    "IP": "8.8.8.8",
+    "ISP": "Google LLC",
+    "Domain": "google.com",
+    "Country": "US",
+    "Abuse Score": 0,
+    "Total Reports": 164,
+    "Last Report": "2025-01-24T15:00:37+00:00"
+},
+{
+    "IP": "45.33.32.156",
+    "ISP": "Linode",
+    "Domain": "linode.com",
+    "Country": "US",
+    "Abuse Score": 0,
+    "Total Reports": 2,
+    "Last Report": "2024-10-30T20:08:23+00:00"
+},
+{
+    "IP": "192.168.1.100",
+    "ISP": "Private IP Address LAN",
+    "Domain": "N/A",
+    "Country": "N/A",
+    "Abuse Score": 0,
+    "Total Reports": 5,
+    "Last Report": "2025-01-19T15:22:54+00:00"
+},
+{
+    "IP": "185.147.124.54",
+    "ISP": "Almira LLC",
+    "Domain": "almirallc.ru",
+    "Country": "RU",
+    "Abuse Score": 100,
+    "Total Reports": 110419,
+    "Last Report": "2025-01-25T13:18:00+00:00"
+},
+{
+    "IP": "185.147.124.54",
+    "ISP": "Almira LLC",
+    "Domain": "almirallc.ru",
+    "Country": "RU",
+    "Abuse Score": 100,
+    "Total Reports": 110439,
+    "Last Report": "2025-01-25T13:25:13+00:00"
+},
+{
+    "IP": "171.251.28.111",
+    "ISP": "Viettel Group",
+    "Domain": "viettel.com.vn",
+    "Country": "VN",
+    "Abuse Score": 100,
+    "Total Reports": 43,
+    "Last Report": "2025-01-25T13:22:58+00:00"
+},
+{
+    "IP": "61.147.41.249",
+    "ISP": "CHINANET jiangsu province network",
+    "Domain": "chinatelecom.cn",
+    "Country": "CN",
+    "Abuse Score": 25,
+    "Total Reports": 7,
+    "Last Report": "2025-01-25T12:55:51+00:00"
+},
+{
+    "IP": "8.8.8.8",
+    "ISP": "Google LLC",
+    "Domain": "google.com",
+    "Country": "US",
+    "Abuse Score": 0,
+    "Total Reports": 165,
+    "Last Report": "2025-01-25T14:00:29+00:00"
+},
+{
+    "IP": "185.147.124.54",
+    "ISP": "Almira LLC",
+    "Domain": "almirallc.ru",
+    "Country": "RU",
+    "Abuse Score": 100,
+    "Total Reports": 110547,
+    "Last Report": "2025-01-25T14:10:39+00:00"
+},
+{
+    "IP": "171.251.28.111",
+    "ISP": "Viettel Group",
+    "Domain": "viettel.com.vn",
+    "Country": "VN",
+    "Abuse Score": 100,
+    "Total Reports": 87,
+    "Last Report": "2025-01-25T14:07:51+00:00"
+},
+{
+    "IP": "61.147.41.249",
+    "ISP": "CHINANET jiangsu province network",
+    "Domain": "chinatelecom.cn",
+    "Country": "CN",
+    "Abuse Score": 25,
+    "Total Reports": 7,
+    "Last Report": "2025-01-25T12:55:51+00:00"
+},
+{
+    "IP": "185.220.101.6",
+    "ISP": "Artikel10 e.V.",
+    "Domain": "artikel10.org",
+    "Country": "DE",
+    "Abuse Score": 100,
+    "Total Reports": 209,
+    "Last Report": "2025-01-25T10:46:10+00:00"
+},
+{
+    "IP": "104.244.72.115",
+    "ISP": "BuyVM",
+    "Domain": "frantech.ca",
+    "Country": "LU",
+    "Abuse Score": 100,
+    "Total Reports": 295,
+    "Last Report": "2025-01-25T10:57:09+00:00"
+},
+{
+    "IP": "45.227.254.204",
+    "ISP": "XWIN UNIVERSAL LTD",
+    "Domain": "xwinnet.biz",
+    "Country": "LT",
+    "Abuse Score": 0,
+    "Total Reports": 0,
+    "Last Report": null
+},
+{
+    "IP": "192.168.1.1",
+    "ISP": "Private IP Address LAN",
+    "Domain": "N/A",
+    "Country": "N/A",
+    "Abuse Score": 0,
+    "Total Reports": 21,
+    "Last Report": "2025-01-24T14:44:44+00:00"
+},
+{
+    "IP": "85.214.132.117",
+    "ISP": "Strato Rechenzentrum, Berlin",
+    "Domain": "strato.de",
+    "Country": "DE",
+    "Abuse Score": 0,
+    "Total Reports": 0,
+    "Last Report": null
+},
+{
+    "IP": "37.49.226.175",
+    "ISP": "ESTOXY OU",
+    "Domain": "estoxy.com",
+    "Country": "NL",
+    "Abuse Score": 0,
+    "Total Reports": 0,
+    "Last Report": null
+},
+{
+    "IP": "23.129.64.96",
+    "ISP": "Emerald Onion",
+    "Domain": "emeraldonion.org",
+    "Country": "US",
+    "Abuse Score": 0,
+    "Total Reports": 0,
+    "Last Report": "2022-11-28T20:02:02+00:00"
+},
+{
+    "IP": "177.47.3.189",
+    "ISP": "EQUINIX BRASIL",
+    "Domain": "equinix.com",
+    "Country": "BR",
+    "Abuse Score": 0,
+    "Total Reports": 0,
+    "Last Report": null
+},
+{
+    "IP": "209.85.220.41",
+    "ISP": "Google LLC",
+    "Domain": "google.com",
+    "Country": "US",
+    "Abuse Score": 0,
+    "Total Reports": 70,
+    "Last Report": "2025-01-25T13:56:50+00:00"
+},
+{
+    "IP": "212.227.15.198",
+    "ISP": "IONOS SE",
+    "Domain": "ionos.com",
+    "Country": "DE",
+    "Abuse Score": 0,
+    "Total Reports": 0,
+    "Last Report": null
+},
+{
+    "IP": "50.116.35.238",
+    "ISP": "Linode",
+    "Domain": "linode.com",
+    "Country": "US",
+    "Abuse Score": 0,
+    "Total Reports": 0,
+    "Last Report": null
+},
+{
+    "IP": "202.47.85.206",
+    "ISP": "NSW Education Standards Authority",
+    "Domain": "nesa.nsw.edu.au",
+    "Country": "AU",
+    "Abuse Score": 0,
+    "Total Reports": 0,
+    "Last Report": null
+},
+{
+    "IP": "8.8.8.8",
+    "ISP": "Google LLC",
+    "Domain": "google.com",
+    "Country": "US",
+    "Abuse Score": 0,
+    "Total Reports": 165,
+    "Last Report": "2025-01-25T14:00:29+00:00"
+},
+{
+    "IP": "185.147.124.54",
+    "ISP": "Almira LLC",
+    "Domain": "almirallc.ru",
+    "Country": "RU",
+    "Abuse Score": 100,
+    "Total Reports": 110547,
+    "Last Report": "2025-01-25T14:10:39+00:00"
+},
+{
+    "IP": "171.251.28.111",
+    "ISP": "Viettel Group",
+    "Domain": "viettel.com.vn",
+    "Country": "VN",
+    "Abuse Score": 100,
+    "Total Reports": 87,
+    "Last Report": "2025-01-25T14:07:51+00:00"
+},
+{
+    "IP": "61.147.41.249",
+    "ISP": "CHINANET jiangsu province network",
+    "Domain": "chinatelecom.cn",
+    "Country": "CN",
+    "Abuse Score": 25,
+    "Total Reports": 7,
+    "Last Report": "2025-01-25T12:55:51+00:00"
+},
+{
+    "IP": "185.220.101.6",
+    "ISP": "Artikel10 e.V.",
+    "Domain": "artikel10.org",
+    "Country": "DE",
+    "Abuse Score": 100,
+    "Total Reports": 209,
+    "Last Report": "2025-01-25T10:46:10+00:00"
+},
+{
+    "IP": "104.244.72.115",
+    "ISP": "BuyVM",
+    "Domain": "frantech.ca",
+    "Country": "LU",
+    "Abuse Score": 100,
+    "Total Reports": 295,
+    "Last Report": "2025-01-25T10:57:09+00:00"
+},
+{
+    "IP": "45.227.254.204",
+    "ISP": "XWIN UNIVERSAL LTD",
+    "Domain": "xwinnet.biz",
+    "Country": "LT",
+    "Abuse Score": 0,
+    "Total Reports": 0,
+    "Last Report": null
+},
+{
+    "IP": "192.168.1.1",
+    "ISP": "Private IP Address LAN",
+    "Domain": "N/A",
+    "Country": "N/A",
+    "Abuse Score": 0,
+    "Total Reports": 21,
+    "Last Report": "2025-01-24T14:44:44+00:00"
+},
+{
+    "IP": "85.214.132.117",
+    "ISP": "Strato Rechenzentrum, Berlin",
+    "Domain": "strato.de",
+    "Country": "DE",
+    "Abuse Score": 0,
+    "Total Reports": 0,
+    "Last Report": null
+},
+{
+    "IP": "37.49.226.175",
+    "ISP": "ESTOXY OU",
+    "Domain": "estoxy.com",
+    "Country": "NL",
+    "Abuse Score": 0,
+    "Total Reports": 0,
+    "Last Report": null
+},
+{
+    "IP": "23.129.64.96",
+    "ISP": "Emerald Onion",
+    "Domain": "emeraldonion.org",
+    "Country": "US",
+    "Abuse Score": 0,
+    "Total Reports": 0,
+    "Last Report": "2022-11-28T20:02:02+00:00"
+},
+{
+    "IP": "177.47.3.189",
+    "ISP": "EQUINIX BRASIL",
+    "Domain": "equinix.com",
+    "Country": "BR",
+    "Abuse Score": 0,
+    "Total Reports": 0,
+    "Last Report": null
+},
+{
+    "IP": "209.85.220.41",
+    "ISP": "Google LLC",
+    "Domain": "google.com",
+    "Country": "US",
+    "Abuse Score": 0,
+    "Total Reports": 70,
+    "Last Report": "2025-01-25T13:56:50+00:00"
+},
+{
+    "IP": "212.227.15.198",
+    "ISP": "IONOS SE",
+    "Domain": "ionos.com",
+    "Country": "DE",
+    "Abuse Score": 0,
+    "Total Reports": 0,
+    "Last Report": null
+},
+{
+    "IP": "50.116.35.238",
+    "ISP": "Linode",
+    "Domain": "linode.com",
+    "Country": "US",
+    "Abuse Score": 0,
+    "Total Reports": 0,
+    "Last Report": null
+},
+{
+    "IP": "202.47.85.206",
+    "ISP": "NSW Education Standards Authority",
+    "Domain": "nesa.nsw.edu.au",
+    "Country": "AU",
+    "Abuse Score": 0,
+    "Total Reports": 0,
+    "Last Report": null
+},
+{
+    "IP": "8.8.8.8",
+    "ISP": "Google LLC",
+    "Domain": "google.com",
+    "Country": "US",
+    "Abuse Score": 0,
+    "Total Reports": 165,
+    "Last Report": "2025-01-25T14:00:29+00:00"
+},
+{
+    "IP": "185.147.124.54",
+    "ISP": "Almira LLC",
+    "Domain": "almirallc.ru",
+    "Country": "RU",
+    "Abuse Score": 100,
+    "Total Reports": 110566,
+    "Last Report": "2025-01-25T14:16:35+00:00"
+},
+{
+    "IP": "171.251.28.111",
+    "ISP": "Viettel Group",
+    "Domain": "viettel.com.vn",
+    "Country": "VN",
+    "Abuse Score": 100,
+    "Total Reports": 87,
+    "Last Report": "2025-01-25T14:11:40+00:00"
+},
+{
+    "IP": "61.147.41.249",
+    "ISP": "CHINANET jiangsu province network",
+    "Domain": "chinatelecom.cn",
+    "Country": "CN",
+    "Abuse Score": 25,
+    "Total Reports": 7,
+    "Last Report": "2025-01-25T12:55:51+00:00"
+},
+{
+    "IP": "185.220.101.6",
+    "ISP": "Artikel10 e.V.",
+    "Domain": "artikel10.org",
+    "Country": "DE",
+    "Abuse Score": 100,
+    "Total Reports": 209,
+    "Last Report": "2025-01-25T10:46:10+00:00"
+},
+{
+    "IP": "104.244.72.115",
+    "ISP": "BuyVM",
+    "Domain": "frantech.ca",
+    "Country": "LU",
+    "Abuse Score": 100,
+    "Total Reports": 295,
+    "Last Report": "2025-01-25T10:57:09+00:00"
+},
+{
+    "IP": "45.227.254.204",
+    "ISP": "XWIN UNIVERSAL LTD",
+    "Domain": "xwinnet.biz",
+    "Country": "LT",
+    "Abuse Score": 0,
+    "Total Reports": 0,
+    "Last Report": null
+},
+{
+    "IP": "192.168.1.1",
+    "ISP": "Private IP Address LAN",
+    "Domain": "N/A",
+    "Country": "N/A",
+    "Abuse Score": 0,
+    "Total Reports": 21,
+    "Last Report": "2025-01-24T14:44:44+00:00"
+},
+{
+    "IP": "85.214.132.117",
+    "ISP": "Strato Rechenzentrum, Berlin",
+    "Domain": "strato.de",
+    "Country": "DE",
+    "Abuse Score": 0,
+    "Total Reports": 0,
+    "Last Report": null
+},
+{
+    "IP": "37.49.226.175",
+    "ISP": "ESTOXY OU",
+    "Domain": "estoxy.com",
+    "Country": "NL",
+    "Abuse Score": 0,
+    "Total Reports": 0,
+    "Last Report": null
+},
+{
+    "IP": "23.129.64.96",
+    "ISP": "Emerald Onion",
+    "Domain": "emeraldonion.org",
+    "Country": "US",
+    "Abuse Score": 0,
+    "Total Reports": 0,
+    "Last Report": "2022-11-28T20:02:02+00:00"
+},
+{
+    "IP": "193.32.162.132",
+    "ISP": "UNMANAGED LTD",
+    "Domain": "unmanaged.uk",
+    "Country": "RO",
+    "Abuse Score": 100,
+    "Total Reports": 10667,
+    "Last Report": "2025-01-25T14:13:01+00:00"
+},
+{
+    "IP": "106.227.35.200",
+    "ISP": "CHINANET JIANGXI PROVINCE NETWORK",
+    "Domain": "bta.net.cn",
+    "Country": "CN",
+    "Abuse Score": 100,
+    "Total Reports": 107,
+    "Last Report": "2025-01-25T14:11:03+00:00"
+},
+{
+    "IP": "164.163.98.49",
+    "ISP": "INFO TELECOM INTERNET LTDA",
+    "Domain": "infomaistelecom.com",
+    "Country": "BR",
+    "Abuse Score": 100,
+    "Total Reports": 5564,
+    "Last Report": "2025-01-25T14:14:43+00:00"
+},
+{
+    "IP": "94.16.31.222",
+    "ISP": "powered by ANX",
+    "Domain": "powered.services",
+    "Country": "AT",
+    "Abuse Score": 27,
+    "Total Reports": 14,
+    "Last Report": "2025-01-25T14:11:02+00:00"
+},
+{
+    "IP": "162.215.133.102",
+    "ISP": "Unified Layer",
+    "Domain": "unifiedlayer.com",
+    "Country": "US",
+    "Abuse Score": 100,
+    "Total Reports": 2517,
+    "Last Report": "2025-01-25T14:12:58+00:00"
+},
+{
+    "IP": "51.79.251.26",
+    "ISP": "OVH Singapore PTE. LTD",
+    "Domain": "ovh.net",
+    "Country": "SG",
+    "Abuse Score": 100,
+    "Total Reports": 597,
+    "Last Report": "2025-01-25T14:11:03+00:00"
+},
+{
+    "IP": "124.31.104.57",
+    "ISP": "CHINANET Xizang(Tibet) province network",
+    "Domain": "chinatelecom.cn",
+    "Country": "CN",
+    "Abuse Score": 19,
+    "Total Reports": 5,
+    "Last Report": "2025-01-25T14:11:03+00:00"
+},
+{
+    "IP": "218.92.0.230",
+    "ISP": "CHINANET jiangsu province network",
+    "Domain": "chinatelecom.cn",
+    "Country": "CN",
+    "Abuse Score": 100,
+    "Total Reports": 72409,
+    "Last Report": "2025-01-25T14:11:17+00:00"
+},
+{
+    "IP": "166.1.10.197",
+    "ISP": "Internet Utilities NA LLC",
+    "Domain": "iana.org",
+    "Country": "US",
+    "Abuse Score": 36,
+    "Total Reports": 28,
+    "Last Report": "2025-01-25T14:11:02+00:00"
+},
+{
+    "IP": "13.70.39.68",
+    "ISP": "Microsoft Corporation",
+    "Domain": "microsoft.com",
+    "Country": "HK",
+    "Abuse Score": 100,
+    "Total Reports": 5656,
+    "Last Report": "2025-01-25T14:15:01+00:00"
+},
+{
+    "IP": "198.46.129.155",
+    "ISP": "HostPapa",
+    "Domain": "hostpapa.com",
+    "Country": "US",
+    "Abuse Score": 100,
+    "Total Reports": 3022,
+    "Last Report": "2025-01-25T14:11:03+00:00"
+},
+{
+    "IP": "2.36.64.247",
+    "ISP": "Vodafone Italia S.p.A.",
+    "Domain": "vodafone.it",
+    "Country": "IT",
+    "Abuse Score": 100,
+    "Total Reports": 957,
+    "Last Report": "2025-01-25T14:11:03+00:00"
+},
+{
+    "IP": "8.213.197.49",
+    "ISP": "Alibaba Cloud (Singapore) Private Limited",
+    "Domain": "alibabacloud.com",
+    "Country": "TH",
+    "Abuse Score": 100,
+    "Total Reports": 4471,
+    "Last Report": "2025-01-25T14:11:02+00:00"
+},
+{
+    "IP": "116.204.84.188",
+    "ISP": "Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co)",
+    "Domain": "huawei.com",
+    "Country": "CN",
+    "Abuse Score": 100,
+    "Total Reports": 59,
+    "Last Report": "2025-01-25T14:11:01+00:00"
+},
+{
+    "IP": "221.149.176.199",
+    "ISP": "Korea Telecom",
+    "Domain": "kt.com",
+    "Country": "KR",
+    "Abuse Score": 100,
+    "Total Reports": 5941,
+    "Last Report": "2025-01-25T14:11:01+00:00"
+},
+{
+    "IP": "218.92.0.150",
+    "ISP": "CHINANET jiangsu province network",
+    "Domain": "chinatelecom.cn",
+    "Country": "CN",
+    "Abuse Score": 100,
+    "Total Reports": 22744,
+    "Last Report": "2025-01-25T14:13:13+00:00"
+},
+{
+    "IP": "218.92.0.218",
+    "ISP": "CHINANET jiangsu province network",
+    "Domain": "chinatelecom.cn",
+    "Country": "CN",
+    "Abuse Score": 100,
+    "Total Reports": 69739,
+    "Last Report": "2025-01-25T14:14:30+00:00"
+},
+{
+    "IP": "36.233.107.113",
+    "ISP": "Chunghwa Telecom Co.,Ltd.",
+    "Domain": "cht.com.tw",
+    "Country": "TW",
+    "Abuse Score": 12,
+    "Total Reports": 3,
+    "Last Report": "2025-01-25T14:13:24+00:00"
+},
+{
+    "IP": "185.147.124.182",
+    "ISP": "Almira LLC",
+    "Domain": "almirallc.ru",
+    "Country": "RU",
+    "Abuse Score": 100,
+    "Total Reports": 125114,
+    "Last Report": "2025-01-25T14:17:06+00:00"
+},
+{
+    "IP": "124.31.104.114",
+    "ISP": "CHINANET Xizang(Tibet) province network",
+    "Domain": "chinatelecom.cn",
+    "Country": "CN",
+    "Abuse Score": 5,
+    "Total Reports": 7,
+    "Last Report": "2025-01-25T14:11:01+00:00"
+},

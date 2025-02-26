@@ -1,0 +1,30 @@
+
+Consultando o IP: 8.8.8.8
+  - ISP: Google LLC
+  - Domínio: google.com
+  - País: US
+  - Pontuação de abuso: 0
+  - Total de denúncias: 164
+  - Última denúncia: 2025-01-24T15:00:37+00:00
+
+O IP 8.8.8.8 é seguro. Pontuação de abuso: 0
+
+Consultando o IP: 45.33.32.156
+  - ISP: Linode
+  - Domínio: linode.com
+  - País: US
+  - Pontuação de abuso: 0
+  - Total de denúncias: 2
+  - Última denúncia: 2024-10-30T20:08:23+00:00
+
+O IP 45.33.32.156 é seguro. Pontuação de abuso: 0
+
+Consultando o IP: 192.168.1.100
+  - ISP: Private IP Address LAN
+  - Domínio: None
+  - País: N/A
+  - Pontuação de abuso: 0
+  - Total de denúncias: 5
+  - Última denúncia: 2025-01-19T15:22:54+00:00
+
+O IP 192.168.1.100 é seguro. Pontuação de abuso: 0

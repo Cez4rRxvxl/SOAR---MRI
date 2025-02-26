@@ -1,0 +1,71 @@
+IP,ISP,Domain,Country,Abuse Score,Total Reports,Last Report
+8.8.8.8,Google LLC,google.com,US,0,164,2025-01-24T15:00:37+00:00
+45.33.32.156,Linode,linode.com,US,0,2,2024-10-30T20:08:23+00:00
+192.168.1.100,Private IP Address LAN,,,0,5,2025-01-19T15:22:54+00:00
+185.147.124.54,Almira LLC,almirallc.ru,RU,100,110419,2025-01-25T13:18:00+00:00
+185.147.124.54,Almira LLC,almirallc.ru,RU,100,110439,2025-01-25T13:25:13+00:00
+171.251.28.111,Viettel Group,viettel.com.vn,VN,100,43,2025-01-25T13:22:58+00:00
+61.147.41.249,CHINANET jiangsu province network,chinatelecom.cn,CN,25,7,2025-01-25T12:55:51+00:00
+8.8.8.8,Google LLC,google.com,US,0,165,2025-01-25T14:00:29+00:00
+185.147.124.54,Almira LLC,almirallc.ru,RU,100,110547,2025-01-25T14:10:39+00:00
+171.251.28.111,Viettel Group,viettel.com.vn,VN,100,87,2025-01-25T14:07:51+00:00
+61.147.41.249,CHINANET jiangsu province network,chinatelecom.cn,CN,25,7,2025-01-25T12:55:51+00:00
+185.220.101.6,Artikel10 e.V.,artikel10.org,DE,100,209,2025-01-25T10:46:10+00:00
+104.244.72.115,BuyVM,frantech.ca,LU,100,295,2025-01-25T10:57:09+00:00
+45.227.254.204,XWIN UNIVERSAL LTD,xwinnet.biz,LT,0,0,
+192.168.1.1,Private IP Address LAN,,,0,21,2025-01-24T14:44:44+00:00
+85.214.132.117,"Strato Rechenzentrum, Berlin",strato.de,DE,0,0,
+37.49.226.175,ESTOXY OU,estoxy.com,NL,0,0,
+23.129.64.96,Emerald Onion,emeraldonion.org,US,0,0,2022-11-28T20:02:02+00:00
+177.47.3.189,EQUINIX BRASIL,equinix.com,BR,0,0,
+209.85.220.41,Google LLC,google.com,US,0,70,2025-01-25T13:56:50+00:00
+212.227.15.198,IONOS SE,ionos.com,DE,0,0,
+50.116.35.238,Linode,linode.com,US,0,0,
+202.47.85.206,NSW Education Standards Authority,nesa.nsw.edu.au,AU,0,0,
+8.8.8.8,Google LLC,google.com,US,0,165,2025-01-25T14:00:29+00:00
+185.147.124.54,Almira LLC,almirallc.ru,RU,100,110547,2025-01-25T14:10:39+00:00
+171.251.28.111,Viettel Group,viettel.com.vn,VN,100,87,2025-01-25T14:07:51+00:00
+61.147.41.249,CHINANET jiangsu province network,chinatelecom.cn,CN,25,7,2025-01-25T12:55:51+00:00
+185.220.101.6,Artikel10 e.V.,artikel10.org,DE,100,209,2025-01-25T10:46:10+00:00
+104.244.72.115,BuyVM,frantech.ca,LU,100,295,2025-01-25T10:57:09+00:00
+45.227.254.204,XWIN UNIVERSAL LTD,xwinnet.biz,LT,0,0,
+192.168.1.1,Private IP Address LAN,,,0,21,2025-01-24T14:44:44+00:00
+85.214.132.117,"Strato Rechenzentrum, Berlin",strato.de,DE,0,0,
+37.49.226.175,ESTOXY OU,estoxy.com,NL,0,0,
+23.129.64.96,Emerald Onion,emeraldonion.org,US,0,0,2022-11-28T20:02:02+00:00
+177.47.3.189,EQUINIX BRASIL,equinix.com,BR,0,0,
+209.85.220.41,Google LLC,google.com,US,0,70,2025-01-25T13:56:50+00:00
+212.227.15.198,IONOS SE,ionos.com,DE,0,0,
+50.116.35.238,Linode,linode.com,US,0,0,
+202.47.85.206,NSW Education Standards Authority,nesa.nsw.edu.au,AU,0,0,
+8.8.8.8,Google LLC,google.com,US,0,165,2025-01-25T14:00:29+00:00
+185.147.124.54,Almira LLC,almirallc.ru,RU,100,110566,2025-01-25T14:16:35+00:00
+171.251.28.111,Viettel Group,viettel.com.vn,VN,100,87,2025-01-25T14:11:40+00:00
+61.147.41.249,CHINANET jiangsu province network,chinatelecom.cn,CN,25,7,2025-01-25T12:55:51+00:00
+185.220.101.6,Artikel10 e.V.,artikel10.org,DE,100,209,2025-01-25T10:46:10+00:00
+104.244.72.115,BuyVM,frantech.ca,LU,100,295,2025-01-25T10:57:09+00:00
+45.227.254.204,XWIN UNIVERSAL LTD,xwinnet.biz,LT,0,0,
+192.168.1.1,Private IP Address LAN,,,0,21,2025-01-24T14:44:44+00:00
+85.214.132.117,"Strato Rechenzentrum, Berlin",strato.de,DE,0,0,
+37.49.226.175,ESTOXY OU,estoxy.com,NL,0,0,
+23.129.64.96,Emerald Onion,emeraldonion.org,US,0,0,2022-11-28T20:02:02+00:00
+193.32.162.132,UNMANAGED LTD,unmanaged.uk,RO,100,10667,2025-01-25T14:13:01+00:00
+106.227.35.200,CHINANET JIANGXI PROVINCE NETWORK,bta.net.cn,CN,100,107,2025-01-25T14:11:03+00:00
+164.163.98.49,INFO TELECOM INTERNET LTDA,infomaistelecom.com,BR,100,5564,2025-01-25T14:14:43+00:00
+94.16.31.222,powered by ANX,powered.services,AT,27,14,2025-01-25T14:11:02+00:00
+162.215.133.102,Unified Layer,unifiedlayer.com,US,100,2517,2025-01-25T14:12:58+00:00
+51.79.251.26,OVH Singapore PTE. LTD,ovh.net,SG,100,597,2025-01-25T14:11:03+00:00
+124.31.104.57,CHINANET Xizang(Tibet) province network,chinatelecom.cn,CN,19,5,2025-01-25T14:11:03+00:00
+218.92.0.230,CHINANET jiangsu province network,chinatelecom.cn,CN,100,72409,2025-01-25T14:11:17+00:00
+166.1.10.197,Internet Utilities NA LLC,iana.org,US,36,28,2025-01-25T14:11:02+00:00
+13.70.39.68,Microsoft Corporation,microsoft.com,HK,100,5656,2025-01-25T14:15:01+00:00
+198.46.129.155,HostPapa,hostpapa.com,US,100,3022,2025-01-25T14:11:03+00:00
+2.36.64.247,Vodafone Italia S.p.A.,vodafone.it,IT,100,957,2025-01-25T14:11:03+00:00
+8.213.197.49,Alibaba Cloud (Singapore) Private Limited,alibabacloud.com,TH,100,4471,2025-01-25T14:11:02+00:00
+116.204.84.188,Huawei Public Cloud Service (Huawei Software Technologies Ltd.Co),huawei.com,CN,100,59,2025-01-25T14:11:01+00:00
+221.149.176.199,Korea Telecom,kt.com,KR,100,5941,2025-01-25T14:11:01+00:00
+218.92.0.150,CHINANET jiangsu province network,chinatelecom.cn,CN,100,22744,2025-01-25T14:13:13+00:00
+218.92.0.218,CHINANET jiangsu province network,chinatelecom.cn,CN,100,69739,2025-01-25T14:14:30+00:00
+36.233.107.113,"Chunghwa Telecom Co.,Ltd.",cht.com.tw,TW,12,3,2025-01-25T14:13:24+00:00
+185.147.124.182,Almira LLC,almirallc.ru,RU,100,125114,2025-01-25T14:17:06+00:00
+124.31.104.114,CHINANET Xizang(Tibet) province network,chinatelecom.cn,CN,5,7,2025-01-25T14:11:01+00:00
